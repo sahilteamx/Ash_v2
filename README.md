@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Amalser_v2+WA+Bot+repo;Created+by+Amal;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Ash_v2+WA+Bot+repo;Created+by+Sahil;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -13,7 +13,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to make it public
+Project created by <a href="https://github.com/cyberchekuthan">Ash_v2</a> to make it public
     <br>
        | © |
         Reserved |
@@ -30,7 +30,7 @@ https://youtu.be/fd0KPblop-k
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberchekuthan/Amalser_v2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sahilteamx/Ash_v2) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
@@ -39,8 +39,8 @@ https://youtu.be/fd0KPblop-k
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/cyberchekuthan/Amalser_v2
-$ cd Amalser_v2
+$ git clone https://github.com/sahilteamx/Ash_v2
+$ cd Ash_v2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -48,8 +48,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/cyberchekuthan/Amalser_v2
-$ cd Amalser_v2
+$ git clone https://github.com/sahilteamx/Ash_v2
+$ cd Ash_v2
 $ npm i
 $ node julie.js
 ```
@@ -73,7 +73,7 @@ $ node julie.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Lvtl7GqERfP19Na6M2wndX)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://bit.ly/3uwR2yk)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=Julie-Mwol&theme=nightowl)](https://github.com/farhan-dqz/Julie-Mwol)
